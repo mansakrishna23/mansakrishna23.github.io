@@ -1,16 +1,18 @@
 ---
 layout: post
-title: Protocol Droids: Final Reflection
+title: Protocol Droids - Final Reflection
 ---
 {::options parse_block_html="true" /}
 <div class="gave-help">
 **Group Contributions**
 
-Peter Flanders: <br>
+Peter Flanders: 
 Researched previous works' methodologies. Shared utility scripts to aid with collection of data and training of new models. Experimented with collection of diverse image data. Trained dozens of models.
-Elliot Shin: <br>
+
+Elliot Shin: 
 Created live feed scripts and implemented them into our Flask app. Trained many models. Experimented with Fine-Tuning existing Image models. 
-Mansa Krishna: <br>
+
+Mansa Krishna: 
 Worked primarily to deploy our Sign Language Translation model(s) into a web service using Flask. 
 </div>
 {::options parse_block_html="false" /}
@@ -74,7 +76,7 @@ With over two hundred sign languages being used around the world, another aim of
 3. Lastly, we learned a little bit of sign language (which all three of us didn't know before).
 
 ## How will this project experience help us in our future studies or career?
-*** ~ Mansa ~ ***: 
+***Mansa***: 
 
 Personally for me, I am applying to graduate school (PhD program) in the Atmospheric and Oceanic Sciences/Earth Sciences. I am planning on pursuing research related to predicting climate change using machine learning and modelling our climate system, oceans, and atmosphere using numerical methods. I especially enjoyed the linear algebra and neural networks portion of this class and feel that this course especially helped me learn more about various technologies and algorithms I could implement for the same. 
 
