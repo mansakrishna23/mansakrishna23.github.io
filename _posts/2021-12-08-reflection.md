@@ -76,6 +76,15 @@ With over two hundred sign languages being used around the world, another aim of
 3. Lastly, we learned a little bit of sign language (which all three of us didn't know before).
 
 ## How will this project experience help us in our future studies or career?
+
+***Peter***: 
+
+This project helped me understand a lot more about the surrounding infrastructure required to make a project succeed. Going into the project I was focused on the specificities of the model architecture, but by the end of it I realized how important the data, the deployment, and the language used to communicate about it. Taking the time to create a high quality dataset was vital to the success of the project. Once we had a refined dataset, I spent time learning about the complexities of many existing image classification model architectures and what they do differently. Additionally, another skill I got to practice was using git version control. This is especially important in the production of larger software projects.
+
+***Elliot***: 
+
+Personally, this project helped me gain more knowledge about collaborative workflow. I do not think I have worked on an "independent" coding group project like this before. This project also helped me gain better insight into what factors can either make or break a neural network. Things like consistency of data, fine-tuning of transfer learning models, and implementing tools such as google colab really deepened my knowledge of machine learning. I have always been interested in neural networks, and having such a cool group project under my belt gives me the confidence to pursue more projects such as these and hopefully help with gaining some career experience in related fields. Implementing a webapp version of our project was also helpful in helping me with my understanding of what it takes to create an interface potential users can interact with. I am interested in the research aspect of user experience, and feel that this has helped me not only gain experience of implementing such an interface but also gain a sense of what does and does not work when it comes to user-centered design.
+
 ***Mansa***: 
 
 Personally for me, I am applying to graduate school (PhD program) in the Atmospheric and Oceanic Sciences/Earth Sciences. I am planning on pursuing research related to predicting climate change using machine learning and modelling our climate system, oceans, and atmosphere using numerical methods. I especially enjoyed the linear algebra and neural networks portion of this class and feel that this course especially helped me learn more about various technologies and algorithms I could implement for the same. 
