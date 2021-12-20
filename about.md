@@ -9,7 +9,7 @@ Mansa Krishna is an undergraduate student pursuing a bachelors degree in Applied
 
 ### More Information
 
-
+[Curriculum Vitae](https://mansakrishna23.github.io/markdown-cv/)
 
 ### Contact me
 
