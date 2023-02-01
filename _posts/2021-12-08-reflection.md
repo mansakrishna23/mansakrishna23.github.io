@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Protocol Droids - Final Reflection
+title: Protocol Droids - Final Reflection (PIC16B Course - UCLA)
 ---
 {::options parse_block_html="true" /}
 <div class="gave-help">
