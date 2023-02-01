@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![mansa.png]({{ site.baseurl }}/images/mansa.png)
 
-Mansa Krishna is an undergraduate student pursuing a bachelors degree in Applied Mathematics with a specialization in Computing at UCLA. She is currently an undergraduate researcher with the Pablo Saide Research Group affiliated with UCLA and intends to pursue graduate studies in the Earth Sciences. Her primary research interests include applications of Machine Learning and Numerical Methods to the Earth Sciences.
+Mansa Krishna graduated from UCLA with a bachelors degree in Applied Mathematics and a specialization in Computing. She was formerly an undergraduate researcher with the Pablo Saide Research Group affiliated with UCLA and is pursuing graduate studies in the Earth Sciences at Dartmouth. Her primary research interests include applications of Machine Learning to Ice Sheet Modeling.
 
 ### More Information
 
